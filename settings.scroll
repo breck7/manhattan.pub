@@ -1,0 +1,6 @@
+importOnly
+description The Manhattan Pub is a public domain newspaper serving the people of New York City
+git https://github.com/breck7/manhattan.pub
+viewSourceBaseUrl https://github.com/breck7/manhattan.pub/blob/main
+email tips@manhattan.pub
+baseUrl https://manhattan.pub

@@ -1,0 +1,5 @@
+import settings.scroll
+title The Manhattan Pub
+ hidden
+permalink feed.xml
+printFeed index

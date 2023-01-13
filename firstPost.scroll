@@ -1,0 +1,28 @@
+import header.scroll
+title Aloha Manhattan
+date 1-13-2023
+groups index
+startColumns 2
+
+* _The Manhattan Pub is a new public domain newspaper serving the people of New York City_
+
+* Aloha people of Manhattan! Do you have amazing, true stories that are waiting to be told? If so, _today is your day_.
+ dateline
+
+* Public Domain Publishing Inc. has launched the Manhattan Pub, an open source, public domain newspaper to serve you, _the people of New York City_. Send us your stories now. _We're listening_.
+ https://pd.pub Public Domain Publishing Inc
+
+* If you're interested in writing a story for us no need to ask for permission—pull requests are open.
+ https://github.com/breck7/manhattan.pub pull requests
+
+* If you have a great investigative story idea but need some funding, drop me an email.
+
+* Thank you and I look forward to serving the residents of Manhattan for many years to come.
+
+author https://github.com/breck7 John Breck Yunits
+
+quote
+ Mine and publish the truth for the people.
+ - The motto of The Manhattan Pub
+
+scrollFooter
