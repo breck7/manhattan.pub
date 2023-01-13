@@ -1,0 +1,18 @@
+{
+  "name": "The Manhattan Pub",
+  "description": "The Manhattan Pub is a public domain newspaper serving the people of New York City",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/manhattan.pub.git"
+  },
+  "author": "Breck Yunits et al",
+  "homepage": "https://manhattan.pub",
+  "dependencies": {
+    "scroll-cli": "^52.2.0"
+  },
+  "scripts": {
+    "test": "scroll test",
+    "build": "scroll build",
+    "open": "open index.html"
+  }
+}
