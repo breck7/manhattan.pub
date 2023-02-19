@@ -1,0 +1,13 @@
+importOnly
+css
+ a {
+   text-decoration: none;
+ }
+ .printOnly {
+   display: none;
+ }
+ @media print {.printOnly {display: block !important;}}
+ .tagLine {
+   text-align: center;
+   margin-bottom: 10px;
+ }
