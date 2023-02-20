@@ -1,0 +1,22 @@
+importOnly
+import ../settings.scroll
+
+replaceJs TODAY_NAME dayjs(node.root.get("date")).format(`dddd`)
+replaceJs TODAYS_DATE dayjs(node.root.get("date")).format(`M-D`)
+replaceJs YESTERDAYS_DATE dayjs(dayjs(node.root.get("date")).unix() - 24*3600*1000).format(`M-D`)
+replaceJs MONTH_DAY dayjs(node.root.get("date")).format(`MMMM D`)
+
+import ../style.scroll
+
+metaTags
+scrollCssTag
+scrollHeader
+
+title The Manhattan Pub - TODAY_NAME, MONTH_DAY, 2023
+
+groups daily index
+
+* <div class="tagLine"> _The print-at-home daily newspaper for residents of Manhattan, NY. <span class="doNotPrint">PDF version.</span>_ </div>
+ link 2023/pdfs/TODAYS_DATE.pdf PDF version
+
+startColumns 4

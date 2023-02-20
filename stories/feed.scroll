@@ -1,0 +1,5 @@
+import ../settings.scroll
+title The Lahore Pub 
+ hidden
+permalink feed.xml
+printFeed index
