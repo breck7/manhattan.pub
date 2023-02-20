@@ -1,0 +1,14 @@
+<div class="scrollSectionComponent"><h1 hidden="undefined" class="scrollTitleComponent"><a href="feed.xml">The Lahore Pub </a></h1>
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Lahore Pub </title>
+ <link>https://manhattan.pub/</link>
+ <description>The Manhattan Pub is a public domain newspaper serving the people of Manhattan, NY.</description>
+ <lastBuildDate>Mon, 20 Feb 2023 12:23:36 +0000</lastBuildDate>
+ <language>en-us</language>
+
+</channel>
+</rss>
+</div>
