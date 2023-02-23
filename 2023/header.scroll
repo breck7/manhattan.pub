@@ -17,6 +17,6 @@ title The Manhattan Pub - TODAY_NAME, MONTH_DAY, 2023
 groups daily index
 
 * <div class="tagLine"> _The print-at-home daily newspaper for residents of Manhattan, NY. <span class="doNotPrint">PDF version.</span>_ </div>
- link pdfs/TODAYS_DATE.pdf PDF version
+ link 2023/pdfs/TODAYS_DATE.pdf PDF version
 
 startColumns 4
