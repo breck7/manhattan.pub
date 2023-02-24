@@ -1,6 +1,6 @@
 {
   "name": "manhattan.pub",
-  "description": "The Long Beach Pub is a public domain newspaper serving the people of Long Beach, CA",
+  "description": "The Manhattan Pub is a public domain newspaper serving the people of Manhattan, NY.",
   "scripts": {
     "test": "scroll list | scroll test",
     "build": "scroll list | scroll build",
@@ -14,7 +14,7 @@
     "newspaper",
     "publicDomain"
   ],
-  "author": "Breck Yunits et al",
+  "author": "Zohaib Ali",
   "homepage": "https://manhattan.pub/",
   "dependencies": {
     "scroll-cli": "^56.1.0"
