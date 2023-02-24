@@ -1,6 +1,6 @@
 importOnly
-git https://github.com/manhattan-pub/manhattan-pub.github.io
-viewSourceBaseUrl https://github.com/manhattan-pub/manhattan-pub.github.io/blob/main
-email tips@longbeach.pub
+git https://github.com/breck7/manhattan.pub
+viewSourceBaseUrl https://github.com/breck7/manhattan.pub/blob/main
+email tips@manhattan.pub
 baseUrl https://manhattan.pub/
 description The Manhattan Pub is a public domain newspaper serving the people of Manhattan, NY.
