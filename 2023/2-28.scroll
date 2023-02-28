@@ -1,0 +1,186 @@
+date 2-28-2023
+import header.scroll
+
+comment html <style>@font-face{font-family:'MyFont';src:url('googleMaterial.woff2') format('woff2');font-weight:normal;font-style:normal;}body{font-family:'MyFont',sans-serif;font-size:16px;}</style>
+comment css @font-face { font-family: “Material Symbols Outlined”; font-style: normal; font-weight: 400; src: url(/googleMaterial.woff2) format(“woff2”); } .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 24px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+comment css .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 18px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+
+css @font-face{font-family:"Material Symbols Outlined";font-style:normal;font-weight:400;src:url(googleMaterial.woff2) format("woff2");}.material-symbols-outlined{font-family:"Material Symbols Outlined";font-weight:normal;font-style:normal;font-size:18px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:"liga";-webkit-font-smoothing:antialiased;}
+
+
+## Picture of the day <img src="svgs/building.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle;  "> <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+blink Exhibition from February 8th to March 17th.
+image photos/Julie-Heffernan.webp
+ caption Julie Heffernan’s paintings show gardens and art history with paint spills to express environmental chaos and hope. The exhibition is inspired by an Emily Dickinson poem about nature and life.
+  https://www.hirschlandadler.com/exhibitions/julie-heffernan Julie Heffernan’s paintings show gardens and art history with paint spills to express environmental chaos and hope. The exhibition is inspired by an Emily Dickinson poem about nature and life.
+
+endSnippet
+
+comment <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+
+## Art <img src="svgs/art1.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of art
+* Designer handbag company hailing from Manhattan, "Manhattan Portage" announces the Best Award for it's design competition held in Japan.
+ https://www.manhattanportage.com/pages/best-award Designer handbag company hailing from Manhattan, "Manhattan Portage" announces the Best Award for it's design competition held in Japan.
+<hr>
+* Upcoming March 2nd: The Women’s House of Detention
+image photos/houseofdetention.webp
+ https://ohny.org/activity/metropolitan-universal-hip-hop-museum-exhibition-tour/ Metropolitan: Universal Hip Hop Museum Exhibition Tour
+ 
+html <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+## Books <img src="svgs/books.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+* <a href="https://www.unionsquarenyc.org/events-page/mehdi-hasan" style="font-family: 'Pacifico', cursive; font-size: 20px;">Join Mehdi Hassan </a> for the launch of his new book <b>Win Every Argument: The Art of Debating, Persuading, and Public Speaking.</b>
+<hr>
+* Writing classes: Bestseller Book Bootcamp -Write, Market & Publish Your Book — Manhattan
+ https://www.eventbrite.com/e/bestseller-book-bootcamp-write-market-publish-your-book-manhattan-tickets-551876195557?aff=ebdssbdestsearch Writing classes: Bestseller Book Bootcamp -Write, Market & Publish Your Book — Manhattan
+
+## Jobs  <img src="svgs/work.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of jobs
+* 113 new jobs on Indeed.com including  - Showroom Coordinator @ $24 per hour
+ https://www.indeed.com/jobs?l=Manhattan%2C+NY&radius=0&fromage=1&vjk=d4fd2d55ecd8cf2c Indeed.com
+* 107 new jobs on craigslist including Popular American Doll Retailer Hiring @ $24 per hour
+ https://newyork.craigslist.org/search/mnh/jjj?query=jobs#search=1~thumb~0~6 craigslist
+* The Job Hunting Accelerator Bootcamp -Land Your Dream Job — Manhattan
+ https://www.eventbrite.com/e/the-job-hunting-accelerator-bootcamp-land-your-dream-job-manhattan-tickets-550139390727?aff=ebdssbdestsearch The Job Hunting Accelerator Bootcamp -Land Your Dream Job — Manhattan
+
+## Housing <img src="svgs/house.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> <img src="svgs/apartment.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+comment Listing of houses
+* 51 rental listings on HotPads including: - $1,895 1 BR <img src="svgs/bed.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> and 1 Baths <img src="svgs/bath.svg" alt="Your SVG image" style="width: 16px; height: 16px; vertical-align: middle"> on Amsterdam Ave
+ https://hotpads.com/new-york-ny/new-apartments-for-rent?lat=40.8298&lon=-73.9888&maxCreated=24&orderBy=activated&z=13 HotPads
+
+## Broadway <span class="material-symbols-outlined"; style= "vertical-align: middle">theater_comedy</span>
+comment Listing of Broadway shows/events
+* Talk: The Industrialization of Sexual Exploitation OR Why ‘Sex Work’ is NOT ‘Agency’ But Degradation and Nightmare
+ https://www.eventbrite.com/e/talk-sex-work-is-oppression-not-agency-tickets-556912990747 Talk: The Industrialization of Sexual Exploitation OR Why ‘Sex Work’ is NOT ‘Agency’ But Degradation and Nightmare
+comment data and time below
+<p><span style="font-family: 'Brush Script MT', cursive; font-size: 15px;">Event Location:</span> <a href="https://goo.gl/maps/gNbJLygufphBpM4u7">Revolution Books New York 437 Malcolm X Boulevard Harlem New York</a> <br> <span style="font-family: 'Brush Script MT', cursive; font-size: 15px;">Date and Time:</span> Wed, March 1, 2023, 7:00 PM – 9:00 PM EST</p>
+
+## University Events 
+comment Listing of university events(mainly NYU)
+* How A Coaching Mindset Can Change You and the World Around You
+ https://events.nyu.edu/event/312875-how-a-coaching-mindset-can-change-you-and-the
+html <a href="https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/university-life/office-of-studentaffairs/wasserman-center-for-career-development.html" class="requirements"><caption>Please ensure your university is listed among the Wasserman Center for Career Development</caption> Enter your requirements here</a>
+<hr>
+* When the Story is You: Singular first-person journalism (Open to the public)
+ https://journalism.nyu.edu/about-us/event/2023-spring/when-the-story-is-you/
+
+
+## Restaurants 🍽️ 
+* KOCHI - Korean Cuisine  <br> 📍 652 10th Ave, New York, NY 10036
+ https://www.kochinyc.com/ KOCHI - Korean Cuisine 
+image photos/kochi.webp
+ caption Kochi's nine-course tasting menu is a Korean royal cuisine tribute with seasonal ingredients and diverse flavors, including street food inspiration.
+
+## Fire Department | FB
+ https://www.nyc.gov/site/fdny/index.page Fire Department 
+ https://www.facebook.com/manhattanfire/ FB
+* Demoted FDNY chiefs sue to get jobs back after dramatic shakeup
+ https://www.nydailynews.com/new-york/ny-demoted-fdny-chiefs-sue-kavanagh-fdny-20230228-stgkliybanbmxpfxvc5anwauem-story.html Demoted FDNY chiefs sue to get jobs back after dramatic shakeup
+
+
+## Unions 🧑‍🤝‍🧑
+ https://www.nycclc.org/ Unions
+* The Professional Staff Congress, representing faculty and staff at City University of New York, rallied for a new contract including raises, health and safety provisions, job security, and access to full-time appointments with flexible schedules
+ https://www.politico.com/newsletters/new-york-playbook-pm/2023/02/27/cuny-workers-rally-for-new-contract-00084623 The Professional Staff Congress, representing faculty and staff at City University of New York, rallied for a new contract including raises, health and safety provisions, job security, and access to full-time appointments with flexible schedules
+<hr>
+* NYU CONTRACT FACULTY LAUNCH UNION DRIVE
+ https://www.nycclc.org/event/nyu-contract-faculty-launch-union-drive-mar-01-2023 NYU CONTRACT FACULTY LAUNCH UNION DRIVE
+
+
+## Research 🧬 
+* NYU Psycology Study: To better understand how people make decisions now reaching into the future  | Sign up Here and Request Your Account
+ https://as.nyu.edu/departments/psychology/research/participate-in-research/paid-studies.html Sign up Here
+
+
+## Entrepreneurship 🚀 👨‍💼 💰
+* #newtovc: Goal-Setting for Next Rounds
+image photos/vc.webp
+ caption #newtovc is an educational series for new investors, with a focus on diverse backgrounds, while discussing pre-seed and seed investment strategies in the current economic environment.
+  https://allevents.in/new%20york/newtovc-goal-setting-for-next-rounds/10000539393068187 #newtovc is an educational series for new investors, with a focus on diverse backgrounds, while discussing pre-seed and seed investment strategies in the current economic environment.
+<hr>
+* Harlem woman teaches hair care boot camp to help young people launch careers
+ https://pix11.com/news/local-news/manhattan/harlem-woman-teaching-young-people-how-to-do-hair-professionally/ Harlem woman teaches hair care boot camp to help young people launch careers
+
+## Tech <img src="svgs/tech.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+* ERA BIPOC Founders Pitch Night (Virtual): Learn about how to apply to the summers programm for the Entrepreneurs Roundtable Accelerator startups. Apply here
+ https://www.eranyc.com/apply/ Apply here
+ https://www.eventbrite.com/e/era-bipoc-founders-pitch-night-virtual-tickets-526777263977 ERA BIPOC Founders Pitch Night (Virtual)
+     
+
+
+ 
+
+
+## City & City Council 🏛️
+* Upper East Side Subway Station To Get Accessibility Upgrades: MTA
+ https://patch.com/new-york/upper-east-side-nyc/upper-east-side-subway-station-get-accessibility-upgrades-mta Upper East Side Subway Station To Get Accessibility Upgrades: MTA 
+* NYC Council's Land Use Committee has an Oversight Hearing on Feb 28, 2023, regarding office building conversion to residential units, at 250 Broadway, New York, with options to submit written testimony or testify in-person/online.
+ https://nyc.legistar1.com/nyc/meetings/2023/2/19856_A_Committee_on_Land_Use_23-02-28_Committee_Green_Sheet.pdf NYC Council's Land Use Committee has an Oversight Hearing on Feb 28, 2023, regarding office building conversion to residential units, at 250 Broadway, New York, with options to submit written testimony or testify in-person/online.
+
+
+## Mayor's Office - @NYCmayor | @NYCMayorsOffice 
+ https://twitter.com/NYCMayor?s=20 @NYCmayor
+ https://twitter.com/NYCMayorsOffice @NYCMayorsOffice
+* Mayor Adams Rides Subway Overnight on One Year Anniversary of Subway Safety Plan, Announces Over 4,000 New Yorkers Accepted Shelter Since Launch of Plan
+ https://www.nyc.gov/office-of-the-mayor/news/138-23/icymi-mayor-adams-rides-subway-overnight-one-year-anniversary-subway-safety-plan-announces
+
+
+## Parks 🌳 
+* By 2024, new public restrooms will be installed in five parks across New York City, including Thomas Jefferson Park in Manhattan.
+ https://abc7ny.com/public-restroom-nyc-bathroom-subway/12892891/ By 2024, new public restrooms will be installed in five parks across New York City, including Thomas Jefferson Park in Manhattan.
+
+## Cool Websites <span class="material-symbols-outlined" ; style =" vertical-align:middle">public</span>
+* WTF Happened In 1971?
+ https://wtfhappenedin1971.com/ WTF Happened In 1971?
+
+## Hobbies
+* Free Women's Self Defense Seminars
+ https://www.eventbrite.com/e/free-womens-self-defense-seminars-tickets-390779912237?aff=ebdssbdestsearch Free Women's Self Defense Seminars
+
+## Times Square
+* A vertical drop ride might soon open in the middle of Times Square
+ https://www.timeout.com/newyork/news/a-vertical-drop-ride-might-soon-open-in-the-middle-of-times-square-022723 A vertical drop ride might soon open in the middle of Times Square
+
+
+
+comment ## Airport @lgbairport
+comment  https://www.longbeach.gov/lgb/ Airport
+comment  https://twitter.com/lgbairport @lgbairport
+
+comment * 40+ planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+comment  https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+
+## Police @NYPDPBMS | @NYPDPBMN 
+ https://www.nyc.gov/site/nypd/index.page Police
+ https://twitter.com/NYPDPBMS?s=20 @NYPDPBMS
+ https://twitter.com/NYPDPBMN?s=20 @NYPDPBMN
+* Boy, 15, wounded in shooting on Manhattan street: police
+ https://pix11.com/news/local-news/manhattan/boy-15-wounded-in-shooting-on-manhattan-street-police Boy, 15, wounded in shooting on Manhattan street: police
+
+## Volunteer
+* Make a positive impact in the fight against Alzheimer's and dementia by volunteering with the Alzheimer's Association - New York City chapter in their Walk to End Alzheimer's, The Longest Day, and education and support programs.
+ https://alz-org.zoom.us/meeting/register/tJUrd--ppjMpGtGfnuZm1-AqQayZEGZGf-F- Make a positive impact in the fight against Alzheimer's and dementia by volunteering with the Alzheimer's Association - New York City chapter in their Walk to End Alzheimer's, The Longest Day, and education and support programs.
+comment Press releases: https://www.longbeach.gov/press-release-archive/?cid=6702
+
+## Department of Health and Mental Hygiene ⚕️ 💊 💚 🎗 💉 @nycHealthy | Official Website 
+ https://www1.nyc.gov/site/doh/index.page Official Website 
+ https://twitter.com/nycHealthy @nycHealthy
+* Hypertension, or high blood pressure, is a leading cause of heart disease and stroke, killing more New Yorkers than any other disease.
+ https://twitter.com/nycHealthy/status/1629204563587657728 Hypertension, or high blood pressure, is a leading cause of heart disease and stroke, killing more New Yorkers than any other disease.
+
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=40.7145&lon=-74.006
+- 🕑 This Afternoon : A 30 percent chance of rain before 4pm. Cloudy, with a high near 39. Northwest wind around 6 mph.
+- ✨ Tonight: Mostly cloudy, then gradually becoming mostly clear, with a low around 32. Northwest wind around 7 mph.
+- ☀️ Tomorrow : Mostly sunny, with a high near 44. Light and variable wind becoming southeast 5 to 10 mph in the afternoon.
+
+## Subreddit
+ https://www.reddit.com/r/manhattan/new
+* 2 Post(s) yesterday in the Manhattan Subreddit including:
+* We're holding a vigil in City Hall Park tomorrow for disabled victims of filicide.
+ https://www.reddit.com/r/manhattan/comments/11e7dax/were_holding_a_vigil_in_city_hall_park_tomorrow/ We're holding a vigil in City Hall Park tomorrow for disabled victims of filicide.
+
+import footer.scroll
