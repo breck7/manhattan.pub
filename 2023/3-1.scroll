@@ -1,0 +1,159 @@
+date 3-01-2023
+import header.scroll
+
+comment html <style>@font-face{font-family:'MyFont';src:url('googleMaterial.woff2') format('woff2');font-weight:normal;font-style:normal;}body{font-family:'MyFont',sans-serif;font-size:16px;}</style>
+comment css @font-face { font-family: “Material Symbols Outlined”; font-style: normal; font-weight: 400; src: url(/googleMaterial.woff2) format(“woff2”); } .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 24px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+comment css .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 18px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+
+css @font-face{font-family:"Material Symbols Outlined";font-style:normal;font-weight:400;src:url(googleMaterial.woff2) format("woff2");}.material-symbols-outlined{font-family:"Material Symbols Outlined";font-weight:normal;font-style:normal;font-size:18px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:"liga";-webkit-font-smoothing:antialiased;}
+
+
+## Picture of the day <img src="svgs/building.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle;  "> <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+image photos/westvillagesnow.jpg
+ caption Grove Court in the West Village covered in fresh snow : @maximusupinNYc 
+  https://twitter.com/maximusupinNYc @maximusupinNYc
+endSnippet
+
+comment <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+
+## Art <img src="svgs/art1.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of art
+* <center>Quartetto di Cremona</center>
+ https://engage.metmuseum.org/events/metlivearts/fy22-23/quartetto-di-cremona/ Quartetto di Cremona
+image photos/quartetto.webp
+ 
+html <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+## Books <img src="svgs/books.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+* <a href="https://www.unionsquarenyc.org/events-page/mehdi-hasan" style="font-family: 'Pacifico', cursive; font-size: 16px;">Barnes & Noble is hosting a book release event for Samantha Shannon's A DAY OF FALLEN NIGHT B&N Exclusive Edition, a prequel to The Priory of the Orange Tree, on March 1, 2023. </a> 
+<hr>
+* NYTheater Festival Fall/Winterfest 2023 - Theater/Festival/Competition - Plays/Musicals - Total Prizes $8,000
+ https://www.nycplaywrights.org/2023/03/nytheater-festival-fallwinterfest-2023.html NYTheater Festival Fall/Winterfest 2023 - Theater/Festival/Competition - Plays/Musicals - Total Prizes $8,000 
+
+## Jobs  <img src="svgs/work.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of jobs
+* 170 jobs new jobs on Indeed.com including  - PHARMACY ANALYST @ $70,000 per year
+ https://www.indeed.com/jobs?l=Manhattan%2C+NY&radius=0&fromage=1&vjk=d4fd2d55ecd8cf2c Indeed.com
+* 184 new jobs on craigslist including Word Processor/Secretary @ $30 per hour
+ https://newyork.craigslist.org/search/mnh/jjj?query=jobs#search=1~thumb~0~6 craigslist
+
+## Housing <img src="svgs/house.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> <img src="svgs/apartment.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+comment Listing of houses
+* 17 rental listings on HotPads including: - $1,895 1 BR <img src="svgs/bed.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> and 1 Baths <img src="svgs/bath.svg" alt="Your SVG image" style="width: 16px; height: 16px; vertical-align: middle"> on Amsterdam Ave
+ https://hotpads.com/new-york-ny/new-apartments-for-rent?lat=40.8298&lon=-73.9888&maxCreated=24&orderBy=activated&z=13 HotPads
+
+## Broadway <span class="material-symbols-outlined"; style= "vertical-align: middle">theater_comedy</span>
+comment Listing of Broadway shows/events
+* The Harlem Jazz Session with Peter Brainin & Friends
+ https://www.eventbrite.com/d/ny--new-york/events--today/broadway/?page=1
+comment data and time below
+comment <p><span style="font-family: 'Brush Script MT', cursive; font-size: 15px;">Event Location:</span> <a href="https://goo.gl/maps/gNbJLygufphBpM4u7">Revolution Books New York 437 Malcolm X Boulevard Harlem New York</a> <br> <span style="font-family: 'Brush Script MT', cursive; font-size: 15px;">Date and Time:</span> Wed, March 1, 2023, 7:00 PM – 9:00 PM EST</p>
+
+## University Events 
+comment Listing of university events(mainly NYU)
+* Cardio Dance
+ https://manhattan.edu/events.php?trumbaEmbed=view%3Devent%26eventid%3D805336022
+<hr>
+* (First Come First Serve)Third in a series of four events taking place at Casa Italiana this year as part of the literary festival Le Conversazioni that focus on films that the speakers believe worthy of being [re]discovered.
+ https://www.westsiderag.com/2023/03/01/west-side-campaign-against-hunger-prepares-for-federal-end-to-food-subsidies-on-march-1 (First Come First Serve)Third in a series of four events taking place at Casa Italiana this year as part of the literary festival Le Conversazioni that focus on films that the speakers believe worthy of being [re]discovered.
+
+
+## Restaurants 🍽️ 
+* KOCHI - Korean Cuisine  <br> 📍 652 10th Ave, New York, NY 10036
+ https://www.kochinyc.com/ KOCHI - Korean Cuisine 
+image photos/kochi.webp
+ caption Kochi's nine-course tasting menu is a Korean royal cuisine tribute with seasonal ingredients and diverse flavors, including street food inspiration.
+
+## Fire Department | FB
+ https://www.nyc.gov/site/fdny/index.page Fire Department 
+ https://www.facebook.com/manhattanfire/ FB
+* Chinatown building under inspection due to bulging façade; evacuation possible
+ https://abc7ny.com/chinatown-building-unstable-facade-inspection/12899571/ Chinatown building under inspection due to bulging façade; evacuation possible
+
+## Unions 🧑‍🤝‍🧑
+ https://www.nycclc.org/ Unions
+* The Professional Staff Congress, representing faculty and staff at City University of New York, rallied for a new contract including raises, health and safety provisions, job security, and access to full-time appointments with flexible schedules
+ https://www.politico.com/newsletters/new-york-playbook-pm/2023/02/27/cuny-workers-rally-for-new-contract-00084623 The Professional Staff Congress, representing faculty and staff at City University of New York, rallied for a new contract including raises, health and safety provisions, job security, and access to full-time appointments with flexible schedules
+<hr>
+* NYU CONTRACT FACULTY LAUNCH UNION DRIVE
+ https://www.nycclc.org/event/nyu-contract-faculty-launch-union-drive-mar-01-2023 NYU CONTRACT FACULTY LAUNCH UNION DRIVE
+
+
+
+## Entrepreneurship 
+* Uptown Grand Central Food Box Wednesday:Mar 1, 1pm to 7pm  EAST 125 STREET between PARK AVENUE and MADISON AVENUE Manhattan, 
+
+## Tech <img src="svgs/tech.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+* Fireside chat: Supporting Women at Work: International Women's Day celebrates women's achievements globally and this year, there will be a fireside chat with Amelie Ning Kang and Radha Amalraj followed by a networking session over food with other women.  RSVP here 
+ https://www.supermomos.com/socials/fireside-chat-suppor-eca3b0?&utm_source=garysguide&utm_medium=garysguide&utm_campaign=supporting_women_at_work_ RSVP here
+
+## City & City Council 🏛️
+* New York City Council to hold hearing on criticized NYPD unit
+ https://pix11.com/news/local-news/new-york-city-council-to-hold-hearing-on-criticized-nypd-unit/ New York City Council to hold hearing on criticized NYPD unit
+* NYC Council's Land Use Committee has an Oversight Hearing on Feb 28, 2023, regarding office building conversion to residential units, at 250 Broadway, New York, with options to submit written testimony or testify in-person/online.
+ https://nyc.legistar1.com/nyc/meetings/2023/2/19856_A_Committee_on_Land_Use_23-02-28_Committee_Green_Sheet.pdf NYC Council's Land Use Committee has an Oversight Hearing on Feb 28, 2023, regarding office building conversion to residential units, at 250 Broadway, New York, with options to submit written testimony or testify in-person/online.
+* West Side Campaign Against Hunger Prepares for Federal End to Food Subsidies on March 1
+ https://www.westsiderag.com/2023/03/01/west-side-campaign-against-hunger-prepares-for-federal-end-to-food-subsidies-on-march-1 West Side Campaign Against Hunger Prepares for Federal End to Food Subsidies on March 1
+
+## Mayor's Office - @NYCmayor | @NYCMayorsOffice 
+ https://twitter.com/NYCMayor?s=20 @NYCmayor
+ https://twitter.com/NYCMayorsOffice @NYCMayorsOffice
+* I walk with God': Mayor Eric Adams is comfortable mixing religion and politics. Not all New Yorkers feel the same way.
+ https://gothamist.com/news/i-walk-with-god-mayor-eric-adams-is-comfortable-mixing-religion-and-politics-not-all-new-yorkers-feel-the-same-way I walk with God': Mayor Eric Adams is comfortable mixing religion and politics. Not all New Yorkers feel the same way.
+* Mayor Adams Rides Subway Overnight on One Year Anniversary of Subway Safety Plan, Announces Over 4,000 New Yorkers Accepted Shelter Since Launch of Plan
+ https://gothamist.com/news/i-walk-with-god-mayor-eric-adams-is-comfortable-mixing-religion-and-politics-not-all-new-yorkers-feel-the-same-way Mayor Adams Rides Subway Overnight on One Year Anniversary of Subway Safety Plan, Announces Over 4,000 New Yorkers Accepted Shelter Since Launch of Plan
+
+
+## Parks 🌳 
+* Could a redesign of Williams Park be in play?
+ https://stpetecatalyst.com/could-a-redesign-of-williams-park-be-in-play/ Could a redesign of Williams Park be in play?
+
+## Hobbies
+* Just Enough—Finding the Essence of Japanese Design
+ https://thoughtgallery.org/events/just-enough-finding-the-essence-of-japanese-design/ Just Enough—Finding the Essence of Japanese Design
+
+## Times Square
+* Magic Move 4: Katherine Frazer, artist and software designer, creates digital art through manipulating presentation software and is displaying Magic Move 4, featuring self-portraiture and floral imagery, on screens in Times Square every midnight in March, accompanied by an ambient musical piece by Estle.
+ http://arts.timessquarenyc.org/times-square-arts/projects/midnight-moment/magic-move-4/index.aspx Magic Move 4: Katherine Frazer, artist and software designer, creates digital art through manipulating presentation software and is displaying Magic Move 4, featuring self-portraiture and floral imagery, on screens in Times Square every midnight in March, accompanied by an ambient musical piece by Estle.
+
+
+comment ## Airport @lgbairport
+comment  https://www.longbeach.gov/lgb/ Airport
+comment  https://twitter.com/lgbairport @lgbairport
+
+comment * 40+ planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+comment  https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+
+## Police @NYPDPBMS | @NYPDPBMN 
+ https://www.nyc.gov/site/nypd/index.page Police
+ https://twitter.com/NYPDPBMS?s=20 @NYPDPBMS
+ https://twitter.com/NYPDPBMN?s=20 @NYPDPBMN
+* NYPD warns that businesses should request customers to unmask for identification purposes after a rise in robberies where perpetrators wore masks to enter unnoticed, leading to free security assessments to all local businesses.
+ https://gothamist.com/news/to-guard-against-robberies-nypd-tells-businesses-to-require-customers-to-unmask NYPD warns that businesses should request customers to unmask for identification purposes after a rise in robberies where perpetrators wore masks to enter unnoticed, leading to free security assessments to all local businesses.
+* NYC Mayor Adams and Governor Hochul's plan to convert Midtown offices into apartments must include more homes for low-income New Yorkers, according to members of the City Council's Land Use committee, who question the plan's effectiveness in addressing the city's affordable housing crisis.
+ https://gothamist.com/news/manhattan-office-conversions-need-more-affordable-housing-council-says NYC Mayor Adams and Governor Hochul's plan to convert Midtown offices into apartments must include more homes for low-income New Yorkers, according to members of the City Council's Land Use committee, who question the plan's effectiveness in addressing the city's affordable housing crisis.
+
+## Beer 🍻
+ TRANSMITTER TASTING AT CRAFT + CARRY HELL’S KITCHEN: Wednesday, March 1, 2023 6:00 PM  8:00 PM
+ https://www.nycbrewed.com/beer-week-events-2023/2023/3/1/transmitter-tasting-at-craft-carry-hells-kitchen TRANSMITTER TASTING AT CRAFT + CARRY HELL’S KITCHEN: Wednesday, March 1, 2023 6:00 PM  8:00 PM
+
+## Volunteer
+* PurpleStride NYC - Volunteer at Walk to End Pancreatic Cancer
+ https://secure.pancan.org/site/TR/PurpleStride/PurpleStride?pg=entry&fr_id=2673 PurpleStride NYC - Volunteer at Walk to End Pancreatic Cancer
+comment Press releases: https://www.longbeach.gov/press-release-archive/?cid=6702
+* Volunteer Administrative Assistant and Reception
+ https://www.volunteermatch.org/search/opp1875091.jsp Volunteer Administrative Assistant and Reception
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=40.7145&lon=-74.006
+- ✨ Tonight: Patchy drizzle with a chance of rain between 7pm and 4am, then rain likely after 4am. Patchy fog after 1am. Otherwise, cloudy, with a low around 41. Southeast wind 5 to 9 mph becoming northeast after midnight. Chance of precipitation is 60%.
+- ☀️ Tomorrow : Rain likely, mainly before 10am. Patchy fog before 10am. Otherwise, cloudy through mid morning, then gradual clearing, with a high near 56. North wind 5 to 15 mph becoming west in the morning. Chance of precipitation is 60%.
+- 🌤️ Tomorrow Night: Partly cloudy, with a low around 36. Northwest wind 8 to 16 mph
+
+## Subreddit
+ https://www.reddit.com/r/manhattan/new
+* 5 Post(s) yesterday in the Manhattan Subreddit including:
+* Science Comedy Game Show | Caveat | Lower East Side | 7:30 PM | March 9th
+ https://www.reddit.com/r/manhattan/comments/11f8fhi/science_comedy_game_show_caveat_lower_east_side/ Science Comedy Game Show | Caveat | Lower East Side | 7:30 PM | March 9th
+import footer.scroll
