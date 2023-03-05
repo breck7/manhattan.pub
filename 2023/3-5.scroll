@@ -1,0 +1,151 @@
+date 3-05-2023
+import header.scroll
+
+comment html <style>@font-face{font-family:'MyFont';src:url('googleMaterial.woff2') format('woff2');font-weight:normal;font-style:normal;}body{font-family:'MyFont',sans-serif;font-size:16px;}</style>
+comment css @font-face { font-family: “Material Symbols Outlined”; font-style: normal; font-weight: 400; src: url(/googleMaterial.woff2) format(“woff2”); } .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 24px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+comment css .material-symbols-outlined { font-family: “Material Symbols Outlined”; font-weight: normal; font-style: normal; font-size: 18px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-feature-settings: “liga”; -webkit-font-smoothing: antialiased; } 
+
+css @font-face{font-family:"Material Symbols Outlined";font-style:normal;font-weight:400;src:url(googleMaterial.woff2) format("woff2");}.material-symbols-outlined{font-family:"Material Symbols Outlined";font-weight:normal;font-style:normal;font-size:18px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:"liga";-webkit-font-smoothing:antialiased;}
+
+
+## Picture of the day <img src="svgs/building.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle;  "> <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+blink Exhibition from February 8th to March 17th.
+image photos/heraldcanvas.webp
+ caption View of Herald Square from the El, New York, 1936. Oil on canvas. Created by Alfred S. Mira
+
+endSnippet
+
+comment <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+
+## Art <img src="svgs/art1.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of art
+* Portraits of Elvis and Dreamlike Visions at the 31st Outsider Art Fair
+ https://www.nytimes.com/2023/03/03/arts/design/elvis-outsider-art-fair-manhattan.html Portraits of Elvis and Dreamlike Visions at the 31st Outsider Art Fair
+<hr>
+* Genius Gems Chelsea offers a closed pre-registered event for adults' children, with various activities.  Saturday March 4th, from 5:30 PM - 8:00 PM
+ https://nyc.geniusgems.com/products/datenightmay7?variant=43726270071065 Genius Gems Chelsea offers a closed pre-registered event for adults' children, with various activities.  Saturday March 4th, from 5:30 PM - 8:00 PM
+<hr>
+* Mar 06 2023 Women's Jazz Festival: Jazzmobile Inc. / Shirazette Tinnin
+ https://www.eventbrite.com/e/2023-womens-jazz-festival-jazzmobile-inc-shirazette-tinnin-tickets-528400097917?aff=ebdssbdestsearch Mar 06 2023 Women's Jazz Festival: Jazzmobile Inc. / Shirazette Tinnin
+html <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+## Books <img src="svgs/books.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+comment * <a href="https://www.unionsquarenyc.org/events-page/mehdi-hasan" style="font-family: 'Pacifico', cursive; font-size: 20px;">Join Mehdi Hassan </a> for the launch of his new book <b>Win Every Argument: The Art of Debating, Persuading, and Public Speaking.</b>
+Attend an in-person event at the Strand Book Store's 3rd floor Rare Book Room on March 6th, where journalist, screenwriter, and author Dana Schwartz will discuss her new novel, Immortality: A Love Story, with author and Bustle editor Hannah Orenstein.
+ https://www.strandbooks.com/events/event644?title=dana_schwartz__hannah_orenstein_immortality Attend an in-person event at the Strand Book Store's 3rd floor Rare Book Room on March 6th, where journalist, screenwriter, and author Dana Schwartz will discuss her new novel, Immortality: A Love Story, with author and Bustle editor Hannah Orenstein.
+
+## Jobs  <img src="svgs/work.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
+comment Listing of jobs
+* 51 jobs new jobs on Indeed.com including  - Community Coordinator @ $83,981 a year
+ https://www.indeed.com/jobs?l=Manhattan%2C+NY&radius=0&fromage=1&vjk=d4fd2d55ecd8cf2c Indeed.com
+* 53 new jobs on craigslist including Popular American Doll Retailer Hiring @ $20 per hour + tips.
+ https://newyork.craigslist.org/search/mnh/jjj?query=jobs#search=1~thumb~0~6 craigslist
+
+## Housing <img src="svgs/house.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> <img src="svgs/apartment.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+comment Listing of houses
+* 10 rental listings on HotPads including: - $600 1 BR <img src="svgs/bed.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle"> and 1 Baths <img src="svgs/bath.svg" alt="Your SVG image" style="width: 16px; height: 16px; vertical-align: middle"> on W 141st St
+ https://hotpads.com/new-york-ny/new-apartments-for-rent?lat=40.8298&lon=-73.9888&maxCreated=24&orderBy=activated&z=13 HotPads
+
+## Broadway <span class="material-symbols-outlined"; style= "vertical-align: middle">theater_comedy</span>
+comment Listing of Broadway shows/events
+* The Lion King Tickets
+ https://www.broadway.com/shows/the-lion-king/ The Lion King Tickets
+* Experience the thrilling new Broadway musical of the beloved story of Aladdin, featuring Academy Award-winning songs and composed by Tony Award-winning artists.
+ https://broadwaydirect.com/show/aladdin/ Experience the thrilling new Broadway musical of the beloved story of Aladdin, featuring Academy Award-winning songs and composed by Tony Award-winning artists.
+
+## University
+comment Listing of university events(mainly NYU)
+* Daring to Struggle: China's Global Ambitions Under Xi Jinping
+ https://www.eventbrite.com/e/daring-to-struggle-chinas-global-ambitions-under-xi-jinping-tickets-515200377197?aff=ebdssbdestsearch Daring to Struggle: China's Global Ambitions Under Xi Jinping
+
+
+## Restaurants 🍽️ 
+* Oceana  <br> 📍 652 10th Ave, New York, NY 10036
+ https://www.kochinyc.com/ KOCHI - Korean Cuisine 
+image photos/oceana.jpg
+ https://www.oceanarestaurant.com/ Oceana 
+
+## Fire Department | FB
+ https://www.nyc.gov/site/fdny/index.page Fire Department 
+ https://www.facebook.com/manhattanfire/ FB
+* Manhattan *All Hands* Box 1668. 889 St Nicholas Ave. Mattress fire apt 410 4th floor
+* Fire Department leader Laura Kavanagh in heated feud with top chiefs — NYC public safety, ageism, sexism in dispute
+ https://www.nydailynews.com/new-york/ny-fdny-drama-over-chiefs-demotions-20230305-a2ggllupordx3db7ftldzx5h2y-story.html Fire Department leader Laura Kavanagh in heated feud with top chiefs — NYC public safety, ageism, sexism in dispute
+
+## Unions 🧑‍🤝‍🧑
+ https://www.nycclc.org/ Unions
+* NYU’s Non-Tenured Faculty ‘Rally For A Union’ - They Make Up Half Of NYU’s Full-Time Professors & ‘Want Living Wages & Academic Freedom’
+ https://www.wnylabortoday.com/news/2023/03/05/new-york-city-labor-news/nyu-s-non-tenured-faculty-rally-for-a-union-they-make-up-half-of-nyu-s-full-time-professors-want-living-wages-academic-freedom/ NYU’s Non-Tenured Faculty ‘Rally For A Union’ - They Make Up Half Of NYU’s Full-Time Professors & ‘Want Living Wages & Academic Freedom’
+
+## Research 🧬 
+* Study of Purified Vero Rabies Vaccine Compared With Two Reference Rabies Vaccines, Given in a Pre-exposure Regimen to Children and Adults and as Single Booster Dose to a Subset of Adults (VRV12)
+ https://www.centerwatch.com/clinical-trials/listings/306445/study-of-purified-vero-rabies-vaccine-compared-with-two-reference-rabies-vaccines-given-in-a-pre-exposure-regimen-to-children-and-adults-and-as-single-booster-dose-to-a-subset-of-adults-2/?sort_by=last_updated&query=healthy-volunteers&rnk=1
+
+## Entrepreneurship 
+* Soho House is back on track, planning new clubs
+ https://biz.crast.net/soho-house-is-back-on-track-planning-new-clubs/ Soho House is back on track, planning new clubs
+<hr>
+* NYC super commuters travel up to 5 hours round-trip to the office. They say it’s worth it
+ https://fortune.com/2023/03/05/nyc-workers-super-commuters-office/ NYC super commuters travel up to 5 hours round-trip to the office. They say it’s worth it
+
+## Tech <img src="svgs/tech.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle">
+* Health Innovation Summit Of NY CHIMERA
+ https://www.eventbrite.com/e/2023-health-innovation-summit-of-ny-chimera-tickets-535081331667 Health Innovation Summit Of NY CHIMERA
+
+## City & City Council 🏛️
+ https://twitter.com/NYCCouncil City Council
+* March 6th: New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2024, The Preliminary Capital Plan for Fiscal Years 2024-2027, Fiscal 2024-2033 Preliminary Ten-Year Capital Strategy, and The Fiscal 2023 Preliminary Mayor’s Management Report
+ https://nyc.legistar1.com/nyc/meetings/2023/3/19857_A_Committee_on_Finance_23-03-06_Committee_Green_Sheet.pdf March 6th: New York City Council Budget and Oversight Hearings on The Preliminary Budget for Fiscal Year 2024, The Preliminary Capital Plan for Fiscal Years 2024-2027, Fiscal 2024-2033 Preliminary Ten-Year Capital Strategy, and The Fiscal 2023 Preliminary Mayor’s Management Report
+
+## Mayor's Office - @NYCmayor | @NYCMayorsOffice 
+ https://twitter.com/NYCMayor?s=20 @NYCmayor
+ https://twitter.com/NYCMayorsOffice @NYCMayorsOffice
+* We’re planning 1,000 dinners to bring New Yorkers from different backgrounds together and build strong communities. Breaking Bread Building Bonds represents the very best of our city.
+ https://twitter.com/NYCMayorsOffice/status/1632440840936366082 We’re planning 1,000 dinners to bring New Yorkers from different backgrounds together and build strong communities. Breaking Bread Building Bonds represents the very best of our city.
+* Mayor Eric Adams announces expansion of mental health services, with a focus on helping kids
+ https://www.cbsnews.com/newyork/news/new-york-city-mental-health-services-expansion/ Mayor Eric Adams announces expansion of mental health services, with a focus on helping kids
+
+
+## Parks 🌳 
+* Wake Up, Daisy!:Mar 5, 2023 11:00 AM to 3:00 PM:Swedish Cottage Marionette Theatre in Central Park - located southeast of the Delacorte Theater near West Drive and 79th Street.
+ https://www.centralpark.com/events/wake-up-daisy/?occ_dtstart=2023-03-05T11:00 Wake Up, Daisy!:Mar 5, 2023 11:00 AM to 3:00 PM:Swedish Cottage Marionette Theatre in Central Park - located southeast of the Delacorte Theater near West Drive and 79th Street.
+
+## Beauty
+* IBS New York is a celebration of the hardworking professionals in the beauty industry, featuring exhibitors showcasing the latest beauty products and technologies on March 5-7, 2023.
+ https://www.ibsnewyork.com/ IBS New York is a celebration of the hardworking professionals in the beauty industry, featuring exhibitors showcasing the latest beauty products and technologies on March 5-7, 2023.
+
+
+
+comment ## Airport @lgbairport
+comment  https://www.longbeach.gov/lgb/ Airport
+comment  https://twitter.com/lgbairport @lgbairport
+
+comment * 40+ planes arriving today: mostly Southwest with a few from American, Hawaiian, and Delta
+comment  https://www.longbeach.gov/lgb/airlines-destinations/flight-status/ arriving
+
+
+## Police @NYPDPBMS | @NYPDPBMN 
+ https://www.nyc.gov/site/nypd/index.page Police
+ https://twitter.com/NYPDPBMS?s=20 @NYPDPBMS
+ https://twitter.com/NYPDPBMN?s=20 @NYPDPBMN
+* Manhattan Citi Bike rider in critical condition after being struck by hit-and-run driver
+ https://www.nydailynews.com/new-york/nyc-crime/ny-citi-bike-hit-run-manhattan-20230305-fgf657auhbeivkmynqzmqrx6su-story.html Manhattan Citi Bike rider in critical condition after being struck by hit-and-run driver
+
+## Volunteer
+* Volunteer Fitness Interpreter for Older Adults Needed!
+ https://www.volunteermatch.org/search/opp3655305.jsp Volunteer Fitness Interpreter for Older Adults Needed! 
+
+
+## Weather
+ https://forecast.weather.gov/MapClick.php?lat=40.7145&lon=-74.006
+- 🕑 This Afternoon : Partly sunny, with a high near 52. Northwest wind 11 to 13 mph, with gusts as high as 23 mph.
+- ✨ Tonight: Mostly clear, with a low around 37. Northwest wind 10 to 13 mph.
+- ☀️ Tomorrow : Sunny, with a high near 51. Northwest wind 9 to 11 mph.
+
+## Subreddit
+ https://www.reddit.com/r/manhattan/new
+* 2 Post(s) yesterday in the Manhattan Subreddit including:
+* Must love board games single mixer at e's bar
+ https://www.reddit.com/r/manhattan/comments/11idbd1/must_love_board_games_single_mixer_at_es_bar/ Must love board games single mixer at e's bar
+
+import footer.scroll
