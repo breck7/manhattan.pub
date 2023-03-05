@@ -12,6 +12,7 @@ css @font-face{font-family:"Material Symbols Outlined";font-style:normal;font-we
 image photos/westvillagesnow.jpg
  caption Grove Court in the West Village covered in fresh snow : @maximusupinNYc 
   https://twitter.com/maximusupinNYc @maximusupinNYc
+
 endSnippet
 
 comment <img src="svgs/awesome.svg" alt="Your SVG image" style="width: 18px; height: 18px; vertical-align: middle  ">
