@@ -1,5 +1,6 @@
 importOnly
 import ../settings.scroll
+homeLink ../index.html
 
 replaceJs TODAY_NAME dayjs(node.root.get("date")).format(`dddd`)
 replaceJs TODAYS_DATE dayjs(node.root.get("date")).format(`M-D`)

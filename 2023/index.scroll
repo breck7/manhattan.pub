@@ -1,4 +1,5 @@
 import ../settings.scroll
+homeLink ../index.html
 metaTags
 scrollCssTag
 scrollHeader
