@@ -17,6 +17,6 @@
   "author": "Zohaib Ali",
   "homepage": "https://manhattan.pub/",
   "dependencies": {
-    "scroll-cli": "^59.4.0"
+    "scroll-cli": "^64.0.0"
   }
 }
